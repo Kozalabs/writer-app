@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Writer - iA Writer benzeri lokal masaüstü uygulaması
+Writer lokal masaüstü uygulaması
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Gereksinim : Python 3.8+  (sadece standart kütüphane kullanılır)
 Çalıştırma : python3 writer.py
